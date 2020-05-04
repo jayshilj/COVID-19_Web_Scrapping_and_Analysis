@@ -1,4 +1,4 @@
-# COVID-19_Web_Scrapping_and _Analysis
+# COVID-19_Web_Scrapping_and_Analysis
 COVID-19_Analysis on World and US State Data
 
 This project deals with 3 diffrent aspects on COVID-19 Analysis
