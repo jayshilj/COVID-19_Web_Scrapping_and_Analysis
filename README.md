@@ -31,6 +31,10 @@ Some Analysis:
 
 ![](Images/growth%20of%20cases%20in%20spain.png)
 
+![](Images/State%20wise%20analysis.png)
+
+![](Images/State%20wise%20analysis%20tree%20graph.png)
+
 ![](Images/Usa%20map.png)
 
 
