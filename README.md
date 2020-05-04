@@ -28,7 +28,7 @@ A task sheduler was created to run the script daily to collect data
 5. COVID19_USASTATES_WebScraping.ipynb - The code for all the Web Scrapping and RDBMS integration of all the US States
 
 
-Some Analysis: 
+# Some Analysis: 
 
 ![](Images/top%2010%20countries%20eventual%20case%20growth.png)
 
