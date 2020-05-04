@@ -18,3 +18,22 @@ The link to the dashboards
 3. Data Collection in Relational Database
 The data which was web scrapped was collected and stored in relational database (SQL Server)
 A task sheduler was created to run the script daily to collect data
+
+Some Analysis: 
+
+![](Images/top%2010%20countries%20eventual%20case%20growth.png)
+
+![](Images/top%2010%20countries%20daily%20case%20growth.png)
+
+![](Images/to%2010%20countries%20data%20based%20on%20delta%20rate.png)
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
+
+![](Images/growth%20of%20cases%20in%20spain.png)
+
+
+
+
+
+
+
