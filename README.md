@@ -46,6 +46,12 @@ A task sheduler was created to run the script daily to collect data
 
 ![](Images/oil%20prices.png)
 
+# Refrence
+
+https://www.quandl.com
+https://www.worldometers.info/coronavirus/
+https://raw.githubusercontent.com/CSSEGISandData/
+
 
 
 
