@@ -1,7 +1,7 @@
 # COVID-19_Web_Scrapping_and_Analysis
 COVID-19_Analysis on World and US State Data
 
-This project deals with 3 diffrent aspects on COVID-19 Analysis
+This project deals with 4 diffrent aspects on COVID-19 Analysis
 
 1. Web Scraping:
 Webscrapping was performed on the website https://www.worldometers.info/coronavirus/
@@ -18,6 +18,10 @@ The link to the dashboards
 3. Data Collection in Relational Database
 The data which was web scrapped was collected and stored in relational database (SQL Server)
 A task sheduler was created to run the script daily to collect data
+
+4. Tableau Analysis:
+I have created tableau Analysis using the dataset link to the Tableau Public is:
+https://public.tableau.com/profile/jayshil.jain#!/vizhome/COVIDTimeSeries_15886643195770/COVID-19Analysis
 
 # File Details:
 
