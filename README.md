@@ -44,7 +44,7 @@ A task sheduler was created to run the script daily to collect data
 
 ![](Images/State%20wise%20analysis%20tree%20graph.png)
 
-![](Images/Usa%20map.png)
+![](Images/oil%20prices.png)
 
 
 
