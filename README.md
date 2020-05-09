@@ -58,7 +58,7 @@ https://www.worldometers.info/coronavirus/
 
 https://raw.githubusercontent.com/CSSEGISandData/
 
-A special thanks to prof Nicholas Brown for his expert assistance and guidence
+A special thanks to prof Nicholas Brown for his expert assistance and guidence.
 
 https://github.com/nikbearbrown
 
