@@ -34,7 +34,8 @@ https://public.tableau.com/profile/jayshil.jain#!/vizhome/COVIDTimeSeries_158866
 
 # Some Analysis: 
 
-![](Images/top%2010%20countries%20eventual%20case%20growth.png)
+<img src="https://github.com/jayshilj/COVID19_Web_Scrapping_and_Analysis/blob/master/Images/top%2010%20countries%20eventual%20case%20growth.png" width="2000">
+
 
 ![](Images/top%2010%20countries%20daily%20case%20growth.png)
 
