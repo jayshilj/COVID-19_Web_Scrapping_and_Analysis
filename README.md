@@ -21,6 +21,8 @@ A task sheduler was created to run the script daily to collect data
 
 4. Tableau Analysis:
 I have created tableau Analysis using the dataset link to the Tableau Public is:
+
+https://public.tableau.com/profile/jayshil.jain#!/vizhome/COVIDDashboard_15922437933840/COVIDDashboard
 https://public.tableau.com/profile/jayshil.jain#!/vizhome/COVIDTimeSeries_15886643195770/COVID-19Analysis
 
 # File Details:
