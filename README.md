@@ -15,7 +15,7 @@ Dynamic dashboards were created and hosted on site in the process using the dsta
 The link to the dashboards
 'https://dstack.ai/jayshil97'
 
-3. Data Collection in Relational Database
+3. Data Collection in Relational Database (RDBMS)
 The data which was web scrapped was collected and stored in relational database (SQL Server)
 A task sheduler was created to run the script daily to collect data
 
