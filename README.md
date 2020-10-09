@@ -56,7 +56,7 @@ https://public.tableau.com/profile/jayshil.jain#!/vizhome/COVIDTimeSeries_158866
 
 ![](Images/oil%20prices.png)
 
-# Refrence
+# Refrence:
 
 https://www.quandl.com
 
